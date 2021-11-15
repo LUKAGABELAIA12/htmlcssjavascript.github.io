@@ -1,0 +1,110 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+
+body{
+  background-image:url('pexels-lumn-167699.jpg');
+  
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: auto;
+}
+
+
+
+ul{
+  list-style-type: none;
+  background-color: lightblue; 
+  width: 412px;
+  height: 30px;
+  overflow: hidden;
+  box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px;
+  border-radius: 30px;
+}
+
+li{
+  display: inline-block;
+  text-align: center;
+  padding: 10px 25px;
+  top: 0;
+  left: 15px;
+  position: sticky;
+  font-family: "ALK Sanet", sans-serif;
+  color: black;
+}
+
+
+.html{
+
+  position: relative;
+  top: 10px;
+  margin: 10px;
+  border-radius: 15px;
+  background-size: cover;
+  object-fit: cover;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  background-color: white;
+}
+
+h1 {
+  font-family: "ALK Sanet", sans-serif;
+  text-align: center;
+}
+
+#demo{
+  font-family: "ALK Sanet", sans-serif;
+  font-size: 13px;
+}
+
+#p1{
+  font-family: "ALK Sanet", sans-serif;
+  font-size: 13px;
+}
+h2{
+ font-family: "ALK Sanet", sans-serif;
+}
+
+
+h3{
+  font-family: "ALK Sanet", sans-serif;
+}
+
+.CSS{
+  position: relative;
+  top: 30px;
+  margin: 10px;
+  border-radius: 15px;
+  background-size: cover;
+  object-fit: cover;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  background-color: white;
+}
+
+.javascript{
+  position: relative;
+  top: 30px;
+  margin: 10px;
+  border-radius: 15px;
+  background-size: cover;
+  object-fit: cover;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  background-color: white;
+}
+
+#p2{
+  font-family: "ALK Sanet", sans-serif;
+  font-size: 13px;
+}
+
+
+ li a:hover{
+  background-color: lightblue;
+}
